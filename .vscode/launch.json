@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "tugas_1",
+            "cwd": "tugas_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tugas_1 (profile mode)",
+            "cwd": "tugas_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tugas_1 (release mode)",
+            "cwd": "tugas_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "tugas_1_test",
+            "cwd": "tugas_1_test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tugas_1_test (profile mode)",
+            "cwd": "tugas_1_test",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tugas_1_test (release mode)",
+            "cwd": "tugas_1_test",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
